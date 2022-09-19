@@ -9,6 +9,8 @@
   - [assets](#assets)
     - [Kleuren](#kleuren)
     - [Design](#design)
+      - [Desktop](#desktop)
+      - [Phone](#phone)
   
 
 ## Wat gaan we doen?
@@ -60,6 +62,10 @@
 
 ### Design
 
+Ik heb gekozen voor een simpel minimalist design, hierdoor is er genoeg ruimte voor de kijkers het te personalizeren. ook door de kleuren en lettertypen aan te passen voelt het al snel als een andere "eigen" site.
+
+#### Desktop
+
 ---
 
 ![onepage view](Desktop%20-%201.png)  
@@ -70,4 +76,17 @@
 
 ---
 
+#### Phone
+
+---
+
+![](iPhone%20SE%20-%201.png)
+
+---
+
+![](iPhone%20SE%20-%202.png)
+
+---
+
 [Figma design file](https://www.figma.com/file/RUemNh8oLXEDPh9026GYa7/design-proevenrij?node-id=0%3A1)
+

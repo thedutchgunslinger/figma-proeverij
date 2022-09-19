@@ -81,9 +81,6 @@ Ik heb gekozen voor een simpel minimalist design, hierdoor is er genoeg ruimte v
 ---
 
 ![](assets/iPhone%20SE%20-%201.png)
-
----
-
 ![](assets/iPhone%20SE%20-%202.png)
 
 ---

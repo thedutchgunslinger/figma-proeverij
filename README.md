@@ -33,7 +33,7 @@
 
  > gebruik affinity designer met de wacom tekentablet
 
- ![wireframe voorbeeld](/IMG_20220916_150006.jpg)
+ ![wireframe voorbeeld](assets/IMG_20220916_150006.jpg)
 
 ## figma ui
 - hoe werkt de ui van figma?
@@ -56,7 +56,7 @@
 
 ### Kleuren
 
-![](Frame%201.png) ![](Frame%202.png) ![](Frame%203.png) ![](Frame%204.png) ![](Frame%205.png)
+![](assets/Frame%201.png) ![](assets/Frame%202.png) ![](assets/Frame%203.png) ![](assets/Frame%204.png) ![](assets/Frame%205.png)
 
 [coolors pallete](https://coolors.co/1e1e1e-d90368-959595-cbd4c2-ffffff)
 
@@ -68,11 +68,11 @@ Ik heb gekozen voor een simpel minimalist design, hierdoor is er genoeg ruimte v
 
 ---
 
-![onepage view](Desktop%20-%201.png)  
+![onepage view](assets/Desktop%20-%201.png)  
 
 ---
 
-![project view](Desktop%20-%202.png)
+![project view](assets/Desktop%20-%202.png)
 
 ---
 
@@ -80,11 +80,11 @@ Ik heb gekozen voor een simpel minimalist design, hierdoor is er genoeg ruimte v
 
 ---
 
-![](iPhone%20SE%20-%201.png)
+![](assets/iPhone%20SE%20-%201.png)
 
 ---
 
-![](iPhone%20SE%20-%202.png)
+![](assets/iPhone%20SE%20-%202.png)
 
 ---
 

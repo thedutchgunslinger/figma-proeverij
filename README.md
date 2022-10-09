@@ -8,6 +8,7 @@
   - [tips rondom figma](#tips-rondom-figma)
   - [assets](#assets)
     - [Kleuren](#kleuren)
+    - [Font](#font)
     - [Design](#design)
       - [Desktop](#desktop)
       - [Phone](#phone)
@@ -59,6 +60,8 @@
 ![](assets/Frame%201.png) ![](assets/Frame%202.png) ![](assets/Frame%203.png) ![](assets/Frame%204.png) ![](assets/Frame%205.png)
 
 [coolors pallete](https://coolors.co/1e1e1e-d90368-959595-cbd4c2-ffffff)
+### Font
+Roboto Condensed
 
 ### Design
 
